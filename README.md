@@ -23,6 +23,10 @@ Configuración de un servidor GNU/Linux Debian con los siguientes servicios:
 | `backup_dir.tar.gz` | Directorio /backup_dir |
 | `var_part_aa`, `var_part_ab` | Directorio /var spliteado en partes |
 
-## Participantes
+## Participantes - Grupo 5
 
 - Agustin Caro
+- Franco Gabriel Romero
+- Ignacio Piasentini
+- John Luderson Dieudonne
+- Thiago Rios
